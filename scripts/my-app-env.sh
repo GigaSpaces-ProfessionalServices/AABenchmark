@@ -10,7 +10,6 @@ export SPACE_HA="false"
 export MIRRORED="false"
 
 export COMMAND_HOST="ip-10-0-0-39.us-west-2.compute.internal"
-#export COMMAND_HOST="localhost"
 
 # service grid
 export MANAGER_HA="false"

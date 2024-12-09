@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="model" />
+        <module name="feeder" />
+        <module name="space" />
+        <module name="space_without_memoryXtend" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="feeder-zipkin" target="11" />
+      <module name="model-zipkin" target="11" />
+      <module name="space-zipkin" target="11" />
+      <module name="space_without_memoryXtend-zipkin" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

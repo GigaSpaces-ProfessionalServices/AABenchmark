@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/feeder-zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feeder-zipkin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feeder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feeder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model-zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model-zipkin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/model/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space-zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space-zipkin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space_without_memoryXtend-zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space_without_memoryXtend-zipkin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space_without_memoryXtend/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/space_without_memoryXtend/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

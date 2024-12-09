@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany.app</groupId>
-    <artifactId>my-app-zipkin</artifactId>
+    <artifactId>my-app</artifactId>
     <version>0.1</version>
     <packaging>pom</packaging>
 
@@ -28,10 +28,10 @@
     </repositories>
 
     <modules>
-        <module>feeder-zipkin</module>
-        <module>model-zipkin</module>
-        <module>space-zipkin</module>
-        <module>space_without_memoryXtend-zipkin</module>
+        <module>feeder</module>
+        <module>model</module>
+        <module>space</module>
+        <module>space_without_memoryXtend</module>
     </modules>
 
     <dependencyManagement>
